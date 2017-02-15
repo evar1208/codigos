@@ -1,13 +1,1 @@
-Domain: localhostLocation: http://localhost/prueba/hola.htmlCookie: 
-Domain: localhostLocation: http://localhost/prueba/hola.htmlCookie: 
-Domain: localhostLocation: http://localhost/prueba/hola.htmlCookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
-Domain: localhost Location: http://localhost/prueba/hola.html Cookie: 
+
